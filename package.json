@@ -1,0 +1,11 @@
+{
+  "name": "pokemon_team_builder",
+  "version": "1.0.0",
+  "description": "an app to make competitive pokemon teams based on the meta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kk1337",
+  "license": "ISC"
+}
